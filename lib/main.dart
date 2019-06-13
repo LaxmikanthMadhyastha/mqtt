@@ -4,8 +4,8 @@ import 'dart:io';
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:mqtt_client/mqtt_client.dart' as mqtt;
-import 'package:mqtt_client_example/models/message.dart';
-import 'package:mqtt_client_example/dialogs/send_message.dart';
+import './models/message.dart';
+import './dialogs/send_message.dart';
 
 void main() => runApp(MyApp());
 
