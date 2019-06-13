@@ -98,9 +98,9 @@ packages:
   mqtt_client:
     dependency: "direct dev"
     description:
-      path: "../.."
-      relative: true
-    source: path
+      name: mqtt_client
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "5.5.3"
   path:
     dependency: transitive

@@ -18,8 +18,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  mqtt_client:
-    path: ../..
+  mqtt_client: any
 
 flutter:
   uses-material-design: true
